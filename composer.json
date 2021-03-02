@@ -1,7 +1,7 @@
 {
     "name": "example/project",
     "description": "Example project containing multiple packages",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "type": "project",
     "require": {
         "php": "^7.0||^8.0",
