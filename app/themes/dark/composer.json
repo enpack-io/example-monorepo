@@ -1,5 +1,6 @@
 {
     "name": "example/theme-dark",
     "description": "Example dark theme",
-    "version": "1.0.2"
+    "version": "1.0.2",
+    "license": "MIT"
 }

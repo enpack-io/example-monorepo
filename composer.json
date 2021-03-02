@@ -3,6 +3,7 @@
     "description": "Example project containing multiple packages",
     "version": "4.0.0",
     "type": "project",
+    "license": "Apache-2.0",
     "require": {
         "php": "^7.0||^8.0",
         "ext-json": "*"
