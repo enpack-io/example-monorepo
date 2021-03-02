@@ -4,10 +4,12 @@
     "version": "2.0.0",
     "type": "project",
     "require": {
-        "php": "^7.0||^8.0"
+        "php": "^7.0||^8.0",
+        "ext-json": "*"
     },
     "replace": {
         "example/module-primary-feature": "*",
+        "example/module-secondary-feature": "*",
         "example/theme-dark": "*",
         "example/theme-light": "*"
     },

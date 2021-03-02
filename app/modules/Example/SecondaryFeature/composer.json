@@ -1,0 +1,13 @@
+{
+    "name": "example/module-secondary-feature",
+    "description": "Example secondary feature module",
+    "version": "1.0.0",
+    "require": {
+        "php": "^7.0||^8.0",
+        "ext-json": "*",
+        "example/module-primary-feature": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {"Example\\SecondaryFeature\\": "/"}
+    }
+}
