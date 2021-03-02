@@ -1,0 +1,17 @@
+{
+    "name": "example/project",
+    "description": "Example project containing multiple packages",
+    "version": "1.0.0",
+    "type": "project",
+    "require": {
+        "php": "^7.0"
+    },
+    "replace": {
+        "example/module-primary-feature": "*",
+        "example/theme-dark": "*",
+        "example/theme-light": "*"
+    },
+    "autoload": {
+        "psr-4": {"Example\\": "app/modules/"}
+    }
+}

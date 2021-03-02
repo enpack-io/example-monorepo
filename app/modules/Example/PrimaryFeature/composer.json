@@ -1,0 +1,11 @@
+{
+    "name": "example/module-primary-feature",
+    "description": "Example primary feature module",
+    "version": "1.0.0",
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {"Example\\PrimaryFeature\\": "/"}
+    }
+}
