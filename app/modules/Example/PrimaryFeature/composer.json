@@ -8,5 +8,10 @@
     },
     "autoload": {
         "psr-4": {"Example\\PrimaryFeature\\": "/"}
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.3.x-dev"
+        }
     }
 }
